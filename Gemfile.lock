@@ -100,7 +100,7 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    multi_json (1.12.2)
+    multi_json (1.13.0)
     nenv (0.3.0)
     nio4r (2.2.0)
     nokogiri (1.8.1)
@@ -179,7 +179,7 @@ GEM
     tilt (2.0.8)
     turbolinks (5.0.1)
       turbolinks-source (~> 5)
-    turbolinks-source (5.0.3)
+    turbolinks-source (5.1.0)
     tzinfo (1.2.4)
       thread_safe (~> 0.1)
     uglifier (3.2.0)
