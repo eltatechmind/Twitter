@@ -1,15 +1,11 @@
-# Ruby on Rails Tutorial sample application
+# Twitter Sample App using Ruby On Rails
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+This is a Twitter sample application developed mainly using Ruby on Rails Language which can be viewed on 
+[*Heroku*](https://quiet-crag-23786.herokuapp.com)
+and was created by [Ahmed Fouad](https://www.linkedin.com/in/ahmedfouadelta/).
 
-## License
-
-All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
+This application includes examples of all the major features of Rails, including models, views, controllers, templates, partials, 
+filters, validations, callbacks, has_many/belongs_to and has_many :through associations, security, testing, and deployment.
 
 ## Getting started
 
@@ -36,6 +32,11 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
+## License
+
+All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
+is available jointly under the MIT License and the Beerware License. See
+[LICENSE.md](LICENSE.md) for details.
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
